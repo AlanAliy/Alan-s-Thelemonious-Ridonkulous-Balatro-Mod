@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# VSCode
+.vscode/
+*.code-workspace
+
+.luarc.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Node / package artifacts (if ever used)
+node_modules/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Python cache (in case scripts get added)
+__pycache__/
+*.pyc
+
+# Love2D / Balatro runtime files
+save/
+logs/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# GitHub / editor junk
+*.bak
+*.orig
+
+# macOS Spotlight
+.Spotlight-V100
+.Trashes

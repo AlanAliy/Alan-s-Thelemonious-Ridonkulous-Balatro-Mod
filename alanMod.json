@@ -1,0 +1,11 @@
+{
+  "id": "AlanMod",
+  "name": "Alan's thelemonious, ridonkulous mod",
+  "author": ["Sofia's Boyfriend", "Sofia"],
+  "description": "This mod will make you lose your shit.",
+  "prefix": "alanMod",
+  "main_file": "alanMod.lua",
+  "badge_colour": "4A90E2",
+  "display_name": "Turabi",
+  "version": "1.0.0"
+}

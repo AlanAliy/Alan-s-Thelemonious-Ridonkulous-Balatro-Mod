@@ -19,5 +19,3 @@ Both must be installed for the mod to work.
 1. Install **Lovely**
 2. Install **Steamodded**
 3. Place this mod folder inside your Balatro `Mods` directory.
-
-Example:

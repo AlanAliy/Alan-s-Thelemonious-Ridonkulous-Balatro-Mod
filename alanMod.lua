@@ -628,7 +628,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 2,
+    rarity = 3,
     atlas = "alan_jokers",
     pos = { x = 6, y = 1 },
     cost = 8,
@@ -650,7 +650,7 @@ SMODS.Joker{
         text = {
             "{C:green}#1# in #2#{} chance at end of round",
             "to transform into",
-            "{C:attention}God Joker{}"
+            "{C:attention}God{}"
         }
     },
 

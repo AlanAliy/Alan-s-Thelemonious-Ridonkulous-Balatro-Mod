@@ -1,6 +1,6 @@
 # Alan's Thelemonious Ridonkulous Balatro Mod
 
-A chaotic collection of custom Jokers, consumables, and strange mechanics for **Balatro**.
+cool balatro mod. 
 
 # Dependencies
 

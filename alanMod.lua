@@ -172,7 +172,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 2,
+    rarity = 1,
     atlas = "alan_jokers",
     pos = { x = 3, y = 0 },
     cost = 6,
@@ -315,7 +315,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 2,
+    rarity = 1,
     atlas = "alan_jokers",
     pos = { x = 6, y = 0 },
     cost = 6,
@@ -438,7 +438,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 3,
+    rarity = 1,
     atlas = "alan_jokers",
     pos = { x = 2, y = 1 },
     cost = 7,
@@ -534,7 +534,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 4,
+    rarity = 1,
     atlas = "alan_jokers",
     pos = { x = 4, y = 1 },
     cost = 20,
@@ -578,7 +578,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 2,
+    rarity = 1,
     atlas = "alan_jokers",
     pos = { x = 5, y = 1 },
     cost = 7,
@@ -628,7 +628,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 3,
+    rarity = 1,
     atlas = "alan_jokers",
     pos = { x = 6, y = 1 },
     cost = 8,
@@ -661,7 +661,7 @@ SMODS.Joker{
         }
     end,
 
-    rarity = 2,
+    rarity =1,
     atlas = "alan_jokers2",
     pos = { x = 0, y = 0 },
     cost = 6,
